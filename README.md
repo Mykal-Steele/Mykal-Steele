@@ -19,3 +19,5 @@ Feel free to explore my repositories and connect with me!
 Happy coding!
 
 contact me at - mykal.stele@gmail.com
+
+[![](https://visitcount.itsvg.in/api?id=Mykal-Steele&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
