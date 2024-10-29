@@ -24,3 +24,6 @@ contact me at - mykal.stele@gmail.com
 ![](https://github-profile-trophy.vercel.app/?username=Mykal-Steele&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=Mykal-Steele&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA.svg?logo=github)](https://github.com/sponsors/Mykal-Steele)
+
