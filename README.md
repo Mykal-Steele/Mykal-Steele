@@ -21,3 +21,6 @@ Happy coding!
 contact me at - mykal.stele@gmail.com
 
 
+[![wakatime](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421.svg)](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421)
+
+![Image](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/18c06e14-c341-4f0d-ac05-5930a484cdf6.svg)
