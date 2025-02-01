@@ -1,24 +1,47 @@
-# Welcome to Mykal-Steele's GitHub!
+# Welcome to Mykal-Steele's GitHub! 👋
 
-Hi there! I'm OakarOo, based in Bangkok, and I'm on a journey to master programming and game development. Here's a glimpse of what I'm working on:
+Hi there! I'm OakarOo, a full-stack developer based in Bangkok passionate about building modern web applications and interactive experiences. Here's what I'm currently working on:
 
-## Projects
-- **Random Python Code**: A collection of various Python scripts I've been experimenting with.
-- **Unity Chess Clock**: A chess clock program developed using Unity and C#.
-- **Game Development**: Various projects exploring game mechanics and development in Unity.
-- **Java**: Scripts that I am writing in my CSC102 class + Personal Projects
+## 🚀 Active Projects
+- **Feelio**: MERN Stack application with real-time features
+  - Frontend: React + Redux Toolkit + React Query
+  - Backend: Express.js + MongoDB + WebSockets
+  - Features: Real-time collaboration, rich text editor, file uploads
+- **Unity Chess Clock**: Chess timer application with custom time control settings
+- **Java Learning**: University coursework and core Java concepts exploration
 
-## Technologies I'm Learning
-- **Python**
-- **Django**
-- **Unity/C#**
-- **Java**
+## 💻 Technology Stack
+### Backend Focus
+- **Node.js/Express.js**: Building RESTful APIs and middleware
+- **MongoDB**: NoSQL database with Mongoose ODM
+- **WebSockets**: Real-time communication with Socket.io
+- **API Development**: RESTful services with Express Router
+- **Testing**: Integration testing with Supertest
 
-Feel free to explore my repositories and connect with me!
+### Frontend Expertise
+- React & React Router v7
+- State Management: Redux Toolkit + React Query
+- Styling: Tailwind CSS + Framer Motion
+- Build Tools: Vite + ESLint
+- Rich Text: React Quill integration
 
-Happy coding!
+### Game Development
+- Unity/C# game mechanics
+- 3D interactive experiences
 
-contact me at - mykal.stele@gmail.com
+## 🌱 Currently Learning/Improving
+- MongoDB schema design and optimization
+- Express middleware architecture
+- Advanced React patterns (Compound Components, Hooks)
+- Real-time application scaling strategies
+- TypeScript integration in full-stack projects
+
+## 📫 Let's Connect!
+Always open to collaborating on interesting projects or discussing web development:
+
+📧 Email: mykal.stele@gmail.com
+
+Happy coding! 🚀💻
 
 
 [![wakatime](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421.svg)](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421)
