@@ -45,5 +45,5 @@ Happy coding! 🚀💻
 
 
 [![wakatime](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421.svg)](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421)
-
-![Image](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/18c06e14-c341-4f0d-ac05-5930a484cdf6.svg)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/8913565a-b52a-4a6b-a15d-d5e134f4fee0.png" /></a>
+<figure><embed src="https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/b621d19d-e2d4-4674-9678-db2f1df8084d.svg"></embed></figure>
