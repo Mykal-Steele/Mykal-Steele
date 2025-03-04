@@ -1,5 +1,4 @@
 # Welcome to Mykal-Steele's GitHub! 👋
-
 Hi there! I'm OakarOo, a full-stack developer based in Bangkok passionate about building modern web applications and interactive experiences. Here's what I'm currently working on:
 
 ## 🚀 Active Projects
@@ -44,6 +43,6 @@ Always open to collaborating on interesting projects or discussing web developme
 Happy coding! 🚀💻
 
 
-[![wakatime](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421.svg)](https://wakatime.com/badge/user/35665028-0b40-4980-9103-c87c17b0f8fe/project/b04e7954-aee7-4b43-8f3f-bb7a638c7421)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/8913565a-b52a-4a6b-a15d-d5e134f4fee0.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/806b3955-f4af-44ee-8666-affbd93b4f26.svg" /></a>
 <figure><embed src="https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/b621d19d-e2d4-4674-9678-db2f1df8084d.svg"></embed></figure>
