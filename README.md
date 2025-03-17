@@ -1,4 +1,4 @@
-# Yo! I'm OakarOo 👋 (but you can call me Mykal if that's easier to remember)
+# Yo! I'm OakarOo  (but you can call me Kruskal if that's easier to remember)
 
 *Full-stack developer in Bangkok who occasionally remembers to hydrate while coding*  
 
