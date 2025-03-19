@@ -1,79 +1,83 @@
-# Yo! I'm OakarOo  (but you can call me Kruskal if that's easier to remember)
+# Yo! I'm OakarOo (Kruskal works too)
 
-*Full-stack developer in Bangkok who occasionally remembers to hydrate while coding*  
+Full-stack developer in Bangkok. I try to stay hydrated, especially when coding late.
 
-**Current Status:**  
-✔️ Coding at 2am because "just one more feature"  
-✔️ Forgot to push latest changes yesterday (oops)  
+**Current Status:**
+* Coding deep into the night ("just one more feature," you know?)
+* Probably forgot to push some changes yesterday.
 
-## 🔥 What's Cooking?
+## What I'm Working On
 
-### Feelio (MERN Stack) - [![wakatime](https://wakatime.com/badge/github/Mykal-Steele/Adorio.svg)](https://wakatime.com/badge/github/Mykal-Steele/Adorio)
-*"The project that made me question my life choices"*  
-🍳 **Frontend:** React + Redux (still fighting with useSelector hooks)  
-🥘 **Backend:** Express + MongoDB (Mongoose validations: 1, Me: 0) 
-🌶️ **Real Pain Points:**  
-- WebSocket connections dropping when my coffee shop WiFi acts up 
-- React Quill editor sometimes eats my formatted text (hungry boi)  
-- That one Redux action that works... but only on Tuesdays?  
+### Feelio (MERN Stack)
+*A project that's been... educational.*
 
-*Latest Win:* Got file uploads working... as long as you don't try PDFs yet.  
-*Latest Lose:* File uploads stopped working...
+* **Frontend:** React + Redux (still figuring out some `useSelector` quirks)
+* **Backend:** Express + MongoDB (Mongoose validations and I have a complicated relationship)
+* **Challenges:**
+    * Occasional WebSocket drops when the coffee shop WiFi gets moody.
+    * React Quill sometimes eats my formatting.
+    * That one Redux action that works... inconsistently.
+
+* **Recent Wins:** Got file uploads mostly working (PDFs are next on the list).
+* **Recent Setbacks:** File uploads decided to take a break.
 
 ### Unity Chess Clock ♟️
-*Because normal chess clocks are for normies*  
-- Accidentally made timer go backwards once (feature, not bug!)  
-- UI looks like Windows 95 (retro vibes ✨)  
-- Secret cheat code: press Alt+Q three times (don't tell anyone)  
+*A slightly unconventional chess clock.*
 
-### Java University Stuff 📚
-*When they say "OOP is fun" but you're just making yet another BankAccount class*  
-- Professor keeps saying "encapsulation" like it's not just fancy getters/setters  
-- Got 73/100 on last assignment because "magic numbers" (they weren't even that magical)  
+* Accidentally implemented a reverse timer (let's call it a feature).
+* Rocking a retro Windows 95-inspired UI.
+* There's a secret cheat code (Alt+Q, three times—shhh!).
 
-## 🛠️ Tech Toolbox (Mostly Works... Sometimes)
+### Java University Projects 📚
+*Navigating the world of OOP.*
 
-### Backend Stuff
-- Node.js/Express (router.get('/', (req, res) => { /* pray */ }))  
-- MongoDB (I promise I'll learn proper indexing... someday)  
-- WebSockets (Because polling is for the patient) 
-- Testing? Yeah I do `console.log('it works')` sometimes  
+* Trying to fully grasp "encapsulation" beyond getters and setters.
+* Learning to avoid "magic numbers" (even if they feel magical).
 
-### Frontend Circus
-- React (Hooks! Context! ...Why is state undefined??)  
-- Tailwind CSS (div className="flex flex-col justify-... wait how does this work again")  
-- Framer Motion (makes things wiggle - 10/10 would animate again)  
+## Tech I Use
 
-### Game Dev Dabbles
-- Unity (Where 50% of time is scripting, 50% fixing lighting)  
-- Proud creator of "RotatingCube2023" (v2 coming never)  
+### Backend
+* Node.js/Express (routing that sometimes feels like a prayer)
+* MongoDB (working on my indexing game)
+* WebSockets (because real-time is cool)
+* Testing: Mostly `console.log` for now.
 
-## 📖 Learning... Slowly
+### Frontend
+* React (hooks, context, the usual... and the occasional "why is this undefined?")
+* Tailwind CSS (flexbox is still a puzzle sometimes)
+* Framer Motion (making things move is fun)
 
-✅ MongoDB: Trying to remember `$push` vs `$addToSet`  
-✅ Express Middleware: That thing that runs before... something?  
-✅ React: "Why isn't my useEffect dependency array working?!"   
-✅ TypeScript types that somehow make everything `any` eventually 
+### Game Dev
+* Unity (where scripting and lighting battles consume my time)
+* Creator of "RotatingCube2023" (a masterpiece, if I do say so myself).
 
-## 👋 Hit Me Up!
+## Currently Learning
 
-Want to:  
-- Collab on weird project?  
-- Laugh at my code?  
-- Explain how Webpack works?  
+* MongoDB: Mastering `$push` vs `$addToSet`.
+* Express Middleware: Figuring out the order of operations.
+* React: Debugging `useEffect` dependency arrays.
+* TypeScript: Making types more specific (and less `any`).
 
-📧 **Email:** mykal.stele@gamil.com (yes I know there's a typo in the handle, don't @ me)  
+## Let's Connect!
 
-*P.S. If you email me about blockchain/AI NFTs I will reply with cat memes*  
+* Want to collaborate on a project?
+* Feel like sharing some code feedback?
+* Can explain Webpack without making my head spin?
+
+📧 **Email:** mykal.stele@gmail.com (yeah, I know, the typo.)
+
+*P.S. If you're emailing about blockchain or NFTs, expect cat memes.*
 
 ---
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/8913565a-b52a-4a6b-a15d-d5e134f4fee0.png" /></a>  
-*"Look mom I coded for 12 hours straight!" - My keyboard probably*
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/8913565a-b52a-4a6b-a15d-d5e134f4fee0.png" /></a>
 
-![Alt text](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/806b3955-f4af-44ee-8666-affbd93b4f26.svg)  
+*My keyboard's been busy.*
 
-![Alt text](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/b621d19d-e2d4-4674-9678-db2f1df8084d.svg)  
-*Not me obsessing over the shades of green on GitHub.*
+![Alt text](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/806b3955-f4af-44ee-8666-affbd93b4f26.svg)
 
-**P.P.S.** If you read this far, you owe me a coffee ☕ (I accept virtual espresso shots)
+![Alt text](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/b621d19d-e2d4-4674-9678-db2f1df8084d.svg)
+
+*I may have a slight obsession with GitHub's green shades.*
+
+**P.P.S.** If you made it this far, consider buying me a virtual coffee ☕  @ [buymeacoffee.com](https://buymeacoffee.com/mykalstele4)
