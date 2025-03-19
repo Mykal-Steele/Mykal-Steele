@@ -81,3 +81,4 @@ Full-stack developer in Bangkok. I try to stay hydrated, especially when coding 
 *I may have a slight obsession with GitHub's green shades.*
 
 **P.P.S.** If you made it this far, consider buying me a virtual coffee ☕  @ [buymeacoffee.com](https://buymeacoffee.com/mykalstele4)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mykalstele4)
