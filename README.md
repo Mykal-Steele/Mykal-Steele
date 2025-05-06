@@ -2,30 +2,24 @@
 
 Full-stack developer in Bangkok. I try to stay hydrated, especially when coding late.
 
-**Current Status:**
-* Coding deep into the night ("just one more feature," you know?)
-* Probably forgot to push some changes yesterday.
-
 ## What I'm Working On
 
 ### Feelio (MERN Stack)
 *A project that's been... educational.*
 
-* **Frontend:** React + Redux (still figuring out some `useSelector` quirks)
+* **Frontend:** React + Redux
 * **Backend:** Express + MongoDB (Mongoose validations and I have a complicated relationship)
 * **Challenges:**
     * Occasional WebSocket drops when the coffee shop WiFi gets moody.
     * React Quill sometimes eats my formatting.
     * That one Redux action that works... inconsistently.
 
-* **Recent Wins:** Got file uploads mostly working (PDFs are next on the list).
-* **Recent Setbacks:** File uploads decided to take a break.
 
 ### Unity Chess Clock ♟️
 *A slightly unconventional chess clock.*
 
 * Accidentally implemented a reverse timer (let's call it a feature).
-* Rocking a retro Windows 95-inspired UI.
+*  a retro Windows 95-inspired UI.
 * There's a secret cheat code (Alt+Q, three times—shhh!).
 
 ### Java University Projects 📚
@@ -38,7 +32,7 @@ Full-stack developer in Bangkok. I try to stay hydrated, especially when coding 
 
 ### Backend
 * Node.js/Express (routing that sometimes feels like a prayer)
-* MongoDB (working on my indexing game)
+* MongoDB 
 * WebSockets (because real-time is cool)
 * Testing: Mostly `console.log` for now.
 
@@ -48,7 +42,7 @@ Full-stack developer in Bangkok. I try to stay hydrated, especially when coding 
 * Framer Motion (making things move is fun)
 
 ### Game Dev
-* Unity (where scripting and lighting battles consume my time)
+* Unity
 * Creator of "RotatingCube2023" (a masterpiece, if I do say so myself).
 
 ## Currently Learning
@@ -64,7 +58,7 @@ Full-stack developer in Bangkok. I try to stay hydrated, especially when coding 
 * Feel like sharing some code feedback?
 * Can explain Webpack without making my head spin?
 
-📧 **Email:** mykal.stele@gmail.com (yeah, I know, the typo.)
+📧 **Email:** mykal.stele@gmail.com
 
 *P.S. If you're emailing about blockchain or NFTs, expect cat memes.*
 
