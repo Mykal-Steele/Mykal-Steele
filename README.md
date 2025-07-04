@@ -4,22 +4,22 @@ Full-stack developer in Bangkok. I try to stay hydrated, especially when coding 
 
 ## What I'm Working On
 
-### Feelio (MERN Stack)
+### Adorio (MERN Stack) - https://adorio.space
 *A project that's been... educational.*
 
 * **Frontend:** React + Redux
 * **Backend:** Express + MongoDB (Mongoose validations and I have a complicated relationship)
 * **Challenges:**
     * Occasional WebSocket drops when the coffee shop WiFi gets moody.
-    * React Quill sometimes eats my formatting.
-    * That one Redux action that works... inconsistently.
+    * React Quill sometimes eats my formatting ;-;
+    * That one Redux action that works... inconsistently lmao
 
 
 ### Unity Chess Clock ♟️
 *A slightly unconventional chess clock.*
 
 * Accidentally implemented a reverse timer (let's call it a feature).
-*  a retro Windows 95-inspired UI.
+*  a retro Windows 95-inspired UI 
 * There's a secret cheat code (Alt+Q, three times—shhh!).
 
 ### Java University Projects 📚
