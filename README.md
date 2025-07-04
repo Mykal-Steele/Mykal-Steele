@@ -68,8 +68,6 @@ Full-stack developer in Bangkok. I try to stay hydrated, especially when coding 
 
 *My keyboard's been busy.*
 
-![Alt text](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/806b3955-f4af-44ee-8666-affbd93b4f26.svg)
-
 ![Alt text](https://wakatime.com/share/@35665028-0b40-4980-9103-c87c17b0f8fe/b621d19d-e2d4-4674-9678-db2f1df8084d.svg)
 
 *I may have a slight obsession with GitHub's green shades.*
