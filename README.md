@@ -1,64 +1,55 @@
+
+
 # Yo! I'm OakarOo (Kruskal works too)
 
-Full-stack developer in Bangkok. I try to stay hydrated, especially when coding late.
+Full-stack developer in Bangkok
 
-## What I'm Working On
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-Backend-blue?logo=render)](https://render.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?logo=githubactions)](https://github.com/features/actions)
 
-### Adorio (MERN Stack) - https://adorio.space
-*A project that's been... educational.*
+---
 
-* **Frontend:** React + Redux
-* **Backend:** Express + MongoDB (Mongoose validations and I have a complicated relationship)
-* **Challenges:**
-    * Occasional WebSocket drops when the coffee shop WiFi gets moody.
-    * React Quill sometimes eats my formatting ;-;
-    * That one Redux action that works... inconsistently lmao
+## 🚀 What I'm Working On
 
+### Adorio (MERN Stack) - [https://adorio.space](https://adorio.space)
 
-### Unity Chess Clock ♟️
-*A slightly unconventional chess clock.*
+*Educational project.*
 
-* Accidentally implemented a reverse timer (let's call it a feature).
-*  a retro Windows 95-inspired UI 
-* There's a secret cheat code (Alt+Q, three times—shhh!).
+* **Frontend:** React + Redux (React Quill included, **Deployed on Vercel**)
+* **Backend:** Node.js / Express / MongoDB (**Deployed on Render with GitHub Actions**)
+* **Challenges:** WebSocket drops, React Quill quirks, occasional Redux bugs
 
-### Java University Projects 📚
-*Navigating the world of OOP.*
+---
 
-* Trying to fully grasp "encapsulation" beyond getters and setters.
-* Learning to avoid "magic numbers" (even if they feel magical).
-
-## Tech I Use
+## 🛠 Tech I Use
 
 ### Backend
-* Node.js/Express (routing that sometimes feels like a prayer)
-* MongoDB 
-* WebSockets (because real-time is cool)
-* Testing: Mostly `console.log` for now.
+
+![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white) / Express / Hono-OpenAPI
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white) / ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+Deployment: Render, GitHub Actions
 
 ### Frontend
-* React (hooks, context, the usual... and the occasional "why is this undefined?")
-* Tailwind CSS (flexbox is still a puzzle sometimes)
-* Framer Motion (making things move is fun)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white) + Redux / ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css\&logoColor=white)
+Deployment: Vercel
 
 ### Game Dev
-* Unity
-* Creator of "RotatingCube2023" (a masterpiece, if I do say so myself).
 
-## Currently Learning
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity\&logoColor=white) C#
 
-* MongoDB: Mastering `$push` vs `$addToSet`.
-* Express Middleware: Figuring out the order of operations.
-* React: Debugging `useEffect` dependency arrays.
-* TypeScript: Making types more specific (and less `any`).
+---
 
-## Let's Connect!
+## 📚 Currently Learning
 
-* Want to collaborate on a project?
-* Feel like sharing some code feedback?
-* Can explain Webpack without making my head spin?
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 
-📧 **Email:** mykal.stele@gmail.com
+---
+
+## 📫 Let's Connect!
+
+* Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)**
 
 *P.S. If you're emailing about blockchain or NFTs, expect cat memes.*
 
@@ -72,5 +63,5 @@ Full-stack developer in Bangkok. I try to stay hydrated, especially when coding 
 
 *I may have a slight obsession with GitHub's green shades.*
 
-**P.P.S.** If you made it this far, consider buying me a virtual coffee ☕  @ [buymeacoffee.com](https://buymeacoffee.com/mykalstele4)
+**P.P.S.** If you made it this far, consider buying me a virtual coffee ☕ @ [buymeacoffee.com](https://buymeacoffee.com/mykalstele4)
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mykalstele4)
