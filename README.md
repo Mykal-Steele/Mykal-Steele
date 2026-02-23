@@ -1,11 +1,12 @@
 
 
-# Yo! I'm OakarOo (Kruskal works too)
+# Yo! I'm OakarOo (Kruskal works too) ₍^. .^₎⟆
 
 
-## 📫 Let's Connect!
+Time to clean my profile! 
 
-* Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)**
+
+My Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)** |  **[oakar@adorioi.space](mailto:oakar@adorioi.space)**  („• ֊ •„)♡ |
 
 *P.S. If you're emailing about blockchain or NFTs, expect cat memes.*
 
