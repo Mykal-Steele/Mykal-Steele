@@ -6,7 +6,7 @@
 Time to clean my profile! 
 
 
-My Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)** |  **[oakar@adorioi.space](mailto:oakar@adorioi.space)**  („• ֊ •„)♡ |
+My Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)** |  **[oakar@adorio.space](mailto:oakar@adorio.space)**  („• ֊ •„)♡ |
 
 
 ---
