@@ -3,10 +3,14 @@
 # Yo! I'm OakarOo (Kruskal works too) ₍^. .^₎⟆
 
 
-Time to clean my profile! 
+Time to clean my profile!  \
+Stuff \
+Stuff 
 
 
-My Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)** |  **[oakar@adorio.space](mailto:oakar@adorio.space)**  („• ֊ •„)♡ |
+My Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)** |  **[oakar@adorio.space](mailto:oakar@adorio.space)**  („• ֊ •„)♡ | \
+Linkedin: **[linkedin.com/in/oakaroo](https://linkedin.com/in/oakaroo)** | X(Twitter): **[x.com/kruskal_oakar](https://x.com/kruskal_oakar)** | \
+Facebook: **[facebook.com/oakarooprofile/](https://www.facebook.com/oakarooprofile/)**
 
 
 ---
