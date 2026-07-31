@@ -2,8 +2,19 @@
 
 # Yo! I'm OakarOo (Kruskal works too) ₍^. .^₎⟆
 
+I’m a 2nd-year Computer Science student at KMUTT with a serious habit of building things and breaking them until they work. Also enrolled at the University of People with a Bachelor's in Business Administration.
 
-Time to clean my profile!  \
+
+Currently, I’m a Microsoft Student Ambassador. Over the summer, I also completed a research internship at IC2 Research focusing on chess engines and AI. Most of my week is spent deep in my own projects or researching and creating content for MSA.
+
+
+
+I’m big on systems engineering and making tech a bit less intimidating for everyone. Whether I’m leading a community workshop or just helping a peer through a code review, I’m driven by the idea that good technology should be accessible and, more importantly, useful.
+
+
+
+If you want to talk about full-stack development, Linux builds, or anything in between, feel free to reach out.
+
 Stuff \
 Stuff 
 
