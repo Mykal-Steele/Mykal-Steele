@@ -18,7 +18,7 @@ If you want to talk about full-stack development, Linux builds, or anything in b
 My Email: **[mykal.stele@gmail.com](mailto:mykal.stele@gmail.com)** |  **[oakar@adorio.space](mailto:oakar@adorio.space)**  („• ֊ •„)♡ | \
 Linkedin: **[linkedin.com/in/oakaroo](https://linkedin.com/in/oakaroo)** | X(Twitter): **[x.com/kruskal_oakar](https://x.com/kruskal_oakar)** | \
 Facebook: **[facebook.com/oakarooprofile/](https://www.facebook.com/oakarooprofile/)** | Instagram **[https://www.instagram.com/kruskal.oakar/](https://www.instagram.com/kruskal.oakar/)** | \
-Github: **[https://github.com/Mykal-Steele/Mykal-Steele](https://github.com/Mykal-Steele/Mykal-Steele)** (Surprise! you are already here...) | Gist: **[https://gist.github.com/Mykal-Steele](https://gist.github.com/Mykal-Steele)** \
+Github: **[https://github.com/Mykal-Steele/Mykal-Steele](https://github.com/Mykal-Steele/Mykal-Steele)** (Surprise! you are already here...) | Gist: **[https://gist.github.com/Mykal-Steele](https://gist.github.com/Mykal-Steele)** 
 
 ---
 
