@@ -2,7 +2,7 @@
 
 # Yo! I'm Oakar Oo (Kruskal works too) ₍^. .^₎⟆
 
-I’m a 3nd-year Computer Science student at KMUTT with a serious habit of building things and breaking them until they work. Also enrolled at the University of People with a Bachelor's in Business Administration.
+I’m a 3rd-year Computer Science student at KMUTT with a serious habit of building things and breaking them until they work. Also enrolled at the University of People with a Bachelor's in Business Administration.
 
 Currently, I’m a Microsoft Student Ambassador. Over the summer, I also completed a research internship at IC2 Research focusing on chess engines and AI. Most of my week is spent deep in my own projects or researching and creating content for MSA.
 
